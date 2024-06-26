@@ -3,10 +3,10 @@
 
 ## Contacts 
 
-    * *Email* esspakov@mail.ru
-    * *Telegram* [@S6hes] (t.me/S6hes)
-    * *Discord* kagava.
-    * *Nickname DS RS School* Kagava(@Kagava)
+    - __Email__ esspakov@mail.ru
+    - __Telegram__ [@S6hes](t.me/S6hes)
+    - __Discord__ kagava.
+    - __Nickname DS RS School__ Kagava(@Kagava)
 
 ***
 
@@ -18,18 +18,18 @@
 
 ## Skills
 
-    * HTML (in progress)
-    * CSS (in progress)
-    * JS (in progress)
-    * VSCode
-    * Git, GitHub
+    - HTML (in progress)
+    - CSS (in progress)
+    - JS (in progress)
+    - VSCode
+    - Git, GitHub
 
 ***
 
 ## Code example
 
 **Description from CODEWARS:**
-
+Create a combat function that takes the player's current health and the amount of damage recieved, and returns the player's new health. Health can't be less than 0.
 
 
 ```
@@ -44,8 +44,8 @@ function combat(health, damage) {
 ***
 ## Courses
 
-    * **21School** course "pool"
-    * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    - __21School__ course "pool"
+    - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ***
 
