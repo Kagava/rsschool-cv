@@ -1,28 +1,30 @@
 # Evgenii Shpakov
+
+### Junior Fronted Developer
 ***
 
 ## Contacts 
 
-    - __Email__ esspakov@mail.ru
-    - __Telegram__ [@S6hes](t.me/S6hes)
-    - __Discord__ kagava.
-    - __Nickname DS RS School__ Kagava(@Kagava)
+- __Email:__ esspakov@mail.ru
+- __Telegram:__ [@S6hes](t.me/S6hes)
+- __Discord:__ kagava.
+- __Nickname DS RS School:__ Kagava(@Kagava)
 
 ***
 
 ## About myself
     
-    I am a third year student at the Faculty of Information Technology. Over the past three years, I have only found the direction of front-end    development  interesting. That's why I signed up for the course. Before starting the course, I set several goals for myself. Namely: successfully    complete the    course, bring my English level to A2, or better yet B1, and also improve my discipline.
+I am a third year student at the Faculty of Information Technology. Over the past three years, I have only found the direction of front-end    development  interesting. That's why I signed up for the course. Before starting the course, I set several goals for myself. Namely: successfully    complete the    course, bring my English level to A2, or better yet B1, and also improve my discipline.
 
 ***
 
 ## Skills
 
-    - HTML (in progress)
-    - CSS (in progress)
-    - JS (in progress)
-    - VSCode
-    - Git, GitHub
+- HTML (in progress)
+- CSS (in progress)
+- JS (in progress)
+- VSCode
+- Git, GitHub
 
 ***
 
@@ -44,12 +46,12 @@ function combat(health, damage) {
 ***
 ## Courses
 
-    - __21School__ course "pool"
-    - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- __21School__ course "pool"
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ***
 
 ## Langueges
 
-    * Russian: Native
-    * English: little bit more than A1
+* Russian: Native
+* English: little bit more than A1
