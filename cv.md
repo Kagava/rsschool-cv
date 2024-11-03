@@ -6,7 +6,7 @@
 ## Contacts 
 
 - __Email:__ esspakov@mail.ru
-- __Telegram:__ [@S6hes](t.me/S6hes)
+- __Telegram:__ [@Kaga5a](t.me/Kaga5a)
 - __Discord:__ kagava.
 - __Nickname DS RS School:__ Kagava(@Kagava)
 
