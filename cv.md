@@ -1,6 +1,6 @@
 # Evgenii Shpakov
 
-### Junior Fronted Developer
+### :D
 ***
 
 ## Contacts 
