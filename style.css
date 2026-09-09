@@ -1,9 +1,20 @@
 html {
   scroll-behavior: smooth;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
 }
 
 h1 {
-  color: red;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
 }
 
 li {
@@ -12,4 +23,71 @@ li {
 
 a {
   text-decoration: none;
+}
+
+section {
+  padding: 5px 0;
+  border-bottom: 2px solid gray;
+}
+
+.wrapper {
+  padding: 0 10px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  margin: 20px 0;
+}
+
+.navigation-list {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  gap: 10px;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.info__foto {
+  display: inline-block;
+}
+
+.my-foto {
+  display: inline-block;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.contacts-list {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+}
+
+.contacts-list > li {
+  display: inline-block;
+  font-size: 1.2rem;
+}
+
+.info__name-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.info__name {
+  font-size: 4rem;
+  color: rgb(33, 40, 46);
+}
+
+.info__about {
+  font-style: italic;
+  font-size: 1.5rem;
 }
