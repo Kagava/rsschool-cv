@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Cyberpunk"; /* Придумайте имя для шрифта */
+  src: url("Cyberpunk.ttf") format("truetype"); /* Путь к файлу .ttf */
+  font-weight: normal;
+  font-style: normal;
+}
