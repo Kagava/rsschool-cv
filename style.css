@@ -4,6 +4,7 @@ html {
   scroll-behavior: smooth;
   font-size: 15px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: purple;
 }
 
 body {
@@ -35,7 +36,7 @@ li {
 
 a {
   text-decoration: none;
-  color: black;
+  color: purple;
   transition: color 0.5s ease-in-out;
 }
 
@@ -103,7 +104,6 @@ section {
 
 .info__name {
   font-size: 4rem;
-  color: rgb(33, 40, 46);
 }
 
 .info__about {
@@ -118,6 +118,7 @@ section {
 }
 
 .competensions {
+  height: 100%;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -215,7 +216,7 @@ section {
 
 @media (hover: hover) {
   a:hover {
-    color: purple;
+    color: rgb(255, 0, 255);
   }
 
   .cozy-home_link:hover {
