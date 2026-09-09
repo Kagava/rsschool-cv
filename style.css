@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-  font-size: 10px;
+  font-size: 15px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -8,7 +8,9 @@ body {
   margin: 0;
 }
 
-h1 {
+h1,
+h2,
+h3 {
   margin: 0;
 }
 
@@ -25,6 +27,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  margin: 0;
+}
+
 section {
   padding: 5px 0;
   border-bottom: 2px solid gray;
@@ -32,7 +38,7 @@ section {
 
 .wrapper {
   padding: 0 10px;
-  max-width: 1440px;
+  max-width: 1040px;
   margin: 0 auto;
 }
 
@@ -90,4 +96,115 @@ section {
 .info__about {
   font-style: italic;
   font-size: 1.5rem;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.competensions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-around;
+}
+
+.competensions-list > li {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.competensions-list > li::before {
+  display: inline-block;
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.HTML-comp::before {
+  background-image: url(pics/html5.png);
+}
+
+.CSS-comp::before {
+  background-image: url(pics/css3.png);
+}
+
+.JS-comp::before {
+  background-image: url(pics/js.png);
+}
+
+.Git-comp::before {
+  background-image: url(pics/github.png);
+}
+
+.VS-comp::before {
+  background-image: url(pics/vscode.png);
+}
+
+.Rus-comp::before {
+  background-image: url(pics/rus.png);
+}
+
+.Eng-comp::before {
+  background-image: url(pics/eng.png);
+}
+
+.projects {
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.projects__project {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.project__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project__image > img {
+  display: inline-block;
+}
+
+.project__info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cozy-home_link {
+  transition: all 0.5s ease-in-out;
+}
+
+.christmas-shop_link {
+  transition: all 0.5s ease-in-out;
+}
+
+.project__name {
+  font-size: 2rem;
+}
+
+.project__description {
+  font-size: 1.3rem;
+}
+
+@media (hover: hover) {
+  .cozy-home_link:hover {
+    color: rgb(0, 255, 213);
+  }
+  .christmas-shop_link:hover {
+    color: rgb(255, 80, 197);
+  }
 }
